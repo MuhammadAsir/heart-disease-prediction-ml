@@ -478,7 +478,7 @@ The model has not undergone clinical validation, external validation, prospectiv
 
 ## 👨‍💻 Author
 
-**Muhammad Asir**
+**Muhammad Asir Hossain Chowdhury**
 
 Machine Learning / AI Engineering
 
